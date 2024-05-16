@@ -1,0 +1,437 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+body{
+    overflow-x: hidden;
+    background-color: black;
+}
+.Headphones_landpage{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.beatlogo{
+    width: 40px;
+    height: 40px;
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/beatsLogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+.shop{
+    width: 90px;
+    background-color: #343434;
+    color: #c1c2c1;
+    border: none;
+    border-radius: 10px;
+}
+.main{
+    margin: 20px 20px;
+}
+.main1{
+    display: inline-block;
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/mainImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 480px;
+    margin-left: 4%;
+    margin-right: 40px;
+}
+.main2{
+    display: inline-block;
+    margin-left: 20px;
+}
+.onear{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/onEar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 110px;
+    margin: 20px;
+    margin-bottom: 50px;
+}
+.beats{
+    width: 320px;
+}
+.beats h1{
+    font-weight: lighter;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+.beats h2{
+    font-weight: lighter;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.beats p{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.main_btn{
+    background-color: #343434;
+    color: #c1c2c1;
+    width: 250px;
+    height: 43px;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+.apps{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.app{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 36px;
+}
+.apple{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 41px;
+}
+.youtube{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 26px;
+}
+.specslogout, .specs_out, .caselogout{
+    display: flex;
+    justify-content: center;
+}
+.specs{
+    margin-bottom: 40px;
+}
+.specslogo{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/specsLogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 130px;
+    margin: 40px 0px;
+}
+.specs1, .specs2{
+    display: inline-block;
+}
+.specs_box1{
+    margin: 30px 80px;
+    margin-right: 10px;
+}
+.specs_box1 p{
+    font-size: 1.2rem;
+}
+.specs_box2 p{
+    font-size: 1.2rem;
+}
+.specs_box2{
+    margin: 30px 10px;
+    margin-right: 10px;
+}
+.bluetooth{
+    width: 19px;
+    height: 30px;
+}
+.battery{
+    width: 25px;
+    height: 25px;
+}
+.charger{
+    width: 17px;
+    height: 31px;
+}
+.mic{
+    width: 18px;
+    height: 28px;
+}
+.specs2{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/specsImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 420px;
+    height: 450px;
+}
+.caselogo{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/caseLogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 480px;
+    height: 135px;
+    margin-bottom: 30px;
+}
+.caseout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+.case1{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/caseImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 440px;
+}
+.case2{
+    margin-left: 50px;
+}
+.case2 p{
+    font-size: 1.2rem;
+}
+.casebtn{
+    background-color: #343434;
+    color: #c1c2c1;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.case_part2{
+    background-color: #343434;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.casebtn_part2{
+    background-color: black;
+    color: #c1c2c1;
+    border: none;
+    border-radius: 6px;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.case_part2_1{
+    padding: 80px;
+}
+.case_part2_1 h2{
+    font-weight: lighter;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+.case_part2_1 p{
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.case_part2_2{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/buyNowSectionImage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 340px;
+    height: 230px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+}
+.productslogo{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/productLogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 620px;
+    height: 250px;
+    margin-top: 35px;
+}
+.product_box{
+    /* background-color: #343434; */
+    display: inline-block;
+    margin: 45px;
+    width: 270px;
+}
+.img_product_box{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 350px;
+}
+.product_text{
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.product_text p{
+    font-size: 1.2rem;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0px;
+    padding: 50px;
+}
+.foot{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.beatslogo{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/beatsLogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+}
+.foot h2{
+    font-weight: lighter;
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+.foot a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: block;
+}
+.rightarrow{
+    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/rightArrow.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+}
+.arrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100px;
+    height: 27px;
+}
+.subscribe{
+    display: flex;
+    justify-content: space-between;
+    background-color: #343434;
+    padding: 15px;
+    width: 270px;
+}
+.apps_foot{
+    margin-top: 30px;
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media (min-width:760px) and (max-width:830px) {
+    .menu{
+        width: 42%;
+    }
+    .main1{
+        margin-left: 0px;
+        margin-right: 10px;
+    }
+    .onear{
+        width: 410px;
+        height: 90px;
+    }
+    .specslogo{
+        width: 410px;
+        height: 110px;
+    }
+    .footer{
+        padding: 10px;
+    }
+}
+@media (min-width:340px) and (max-width:420px) {
+    .shop{
+        display: none;
+    }
+    .menu a{
+        font-size: 1rem;
+    }
+    .menu{
+        width: 200px;
+    }
+    .main1{
+        margin-left: 25%;
+        width: 130px;
+        height: 300px;
+    }
+    .main2{
+        margin-left: 5px;
+    }
+    .onear{
+        margin-left: 0px;
+        width: 280px;
+        height: 60px;
+    }
+    .apps{
+        flex-direction: column;
+        align-items: center;
+        height: 250px;
+    }
+    .specslogo{
+        width: 320px;
+        height: 90px;
+    }
+    .specs_out{
+        flex-direction: column;
+        align-items: center;
+    }
+    .specs2{
+        width: 280px;
+        height: 300px;
+    }
+    .caselogo{
+        width: 320px;
+        height: 90px;
+    }
+    .caseout{
+        flex-direction: column;
+        align-items: center;
+    }
+    .case1{
+        width: 200px;
+        height: 290px;
+        margin-bottom: 40px;
+    }
+    .case_part2{
+        flex-direction: column;
+        align-items: center;
+    }
+    .case_part2_2{
+        width: 280px;
+        height: 190px;
+        position: relative;
+        bottom: 40px;
+    }
+    .productslogo{
+        width: 300px;
+        height: 120px;
+    }
+    .footer{
+        flex-direction: column;
+        padding-left: 10px;
+    }
+}
