@@ -21,7 +21,7 @@ body{
 .beatlogo{
     width: 40px;
     height: 40px;
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/beatsLogo.png);
+    background-image: url(beatsLogo.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -48,7 +48,7 @@ body{
 }
 .main1{
     display: inline-block;
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/mainImage.png);
+    background-image: url(mainImage.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 200px;
@@ -61,7 +61,7 @@ body{
     margin-left: 20px;
 }
 .onear{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/onEar.png);
+    background-image: url(onEar.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 500px;
@@ -131,7 +131,7 @@ body{
     margin-bottom: 40px;
 }
 .specslogo{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/specsLogo.png);
+    background-image: url(specsLogo.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 500px;
@@ -172,14 +172,14 @@ body{
     height: 28px;
 }
 .specs2{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/specsImage.png);
+    background-image: url(specsImage.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 420px;
     height: 450px;
 }
 .caselogo{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/caseLogo.png);
+    background-image: url(caseLogo.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 480px;
@@ -193,7 +193,7 @@ body{
     margin: 20px 0px;
 }
 .case1{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/caseImage.png);
+    background-image: url(caseImage.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 300px;
@@ -247,7 +247,7 @@ body{
     margin-bottom: 20px;
 }
 .case_part2_2{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/buyNowSectionImage.png);
+    background-image: url(buyNowSectionImage.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 340px;
@@ -258,7 +258,7 @@ body{
     justify-content: center;
 }
 .productslogo{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/productLogo.png);
+    background-image: url(productLogo.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 620px;
@@ -297,7 +297,7 @@ body{
     padding: 20px;
 }
 .beatslogo{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/beatsLogo.png);
+    background-image: url(beatsLogo.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 50px;
@@ -314,7 +314,7 @@ body{
     display: block;
 }
 .rightarrow{
-    background-image: url(/Users/lenovo/Desktop/iste_task_r2/iste_task2_r2/rightArrow.png);
+    background-image: url(rightArrow.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 16px;
